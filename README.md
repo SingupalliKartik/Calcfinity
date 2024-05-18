@@ -16,10 +16,11 @@ This application provides several utilities including a basic calculator, a BMI 
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;" align= "center" width="full">
-    <img src="https://github.com/SingupalliKartik/Calcfinity/assets/113655672/d807c4ac-581f-431d-a452-d2a7ed62ff29" alt="Image 1" width="200" height="600">
+    <img src="https://github.com/SingupalliKartik/Calcfinity/assets/113655672/b11da703-e3c0-4c40-87b3-99acb11f67fe" alt="Image 1" width="200" height="600">
     <img src="https://github.com/SingupalliKartik/Calcfinity/assets/113655672/51f920c0-8194-4372-bf62-bac3903544fe" alt="Image 2" width="200" height="600">
     <img src="https://github.com/SingupalliKartik/Calcfinity/assets/113655672/b1e9a4cf-df42-4160-924b-711cf7df4406" alt="Image 3" width="200" height="600">
 </div>
+
 
 
 
